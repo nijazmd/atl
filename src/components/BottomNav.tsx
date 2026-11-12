@@ -26,3 +26,4 @@ export const BottomNav: React.FC<BottomNavProps> = ({ active, onChange }) => (
     ))}
   </nav>
 );
+

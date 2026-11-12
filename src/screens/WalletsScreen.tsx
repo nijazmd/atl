@@ -224,3 +224,4 @@ const MiniEquityChart: React.FC<{ snaps: WalletSnapshot[]; startingBal: number }
     </svg>
   );
 };
+

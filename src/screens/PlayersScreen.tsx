@@ -276,3 +276,4 @@ export const PlayerDetailScreen: React.FC<PlayerDetailScreenProps> = ({
     </div>
   );
 };
+

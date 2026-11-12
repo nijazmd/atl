@@ -222,3 +222,4 @@ export const StandingsScreen: React.FC<StandingsScreenProps> = ({
     </div>
   );
 };
+

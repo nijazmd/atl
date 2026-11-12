@@ -199,3 +199,4 @@ export const TeamDetailScreen: React.FC<TeamDetailScreenProps> = ({
     </div>
   );
 };
+
